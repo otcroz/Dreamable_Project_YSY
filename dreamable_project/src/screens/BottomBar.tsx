@@ -1,9 +1,9 @@
 import React from 'react'
 import {StyleSheet, View, Text, SafeAreaView} from 'react-native'
 import {Colors} from 'react-native-paper'
-import HomeIcon from '../../assets/Home'
-import TravelIcon from '../../assets/Dreamming'
-import MypageIcon from '../../assets/Mypage'
+import HomeIcon from '../assets/HomeIcon'
+import TravelIcon from '../assets/DreammingIcon'
+import MypageIcon from '../assets/MypageIcon'
 
 const title = 'BottomBar'
 export default function BottomBar(){

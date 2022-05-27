@@ -2,7 +2,7 @@
 import React from 'react'
 import Svg, { Path } from 'react-native-svg'
 
-function PaperPlane() {
+function DreammingIcon() {
   return (
     <Svg width="28" height="33" viewBox="0 0 28 33" fill="none">
       <Path
@@ -20,4 +20,4 @@ function PaperPlane() {
   )
 }
 
-export default PaperPlane
+export default DreammingIcon

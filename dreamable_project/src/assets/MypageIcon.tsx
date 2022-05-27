@@ -1,7 +1,7 @@
 import React from 'react'
 import Svg, { Path } from 'react-native-svg'
 
-function MyPage() {
+function MyPageIcon() {
   return (
     <Svg width="27" height="33" viewBox="0 0 27 33" fill="none">
       <Path
@@ -16,4 +16,4 @@ function MyPage() {
   )
 }
 
-export default MyPage
+export default MyPageIcon

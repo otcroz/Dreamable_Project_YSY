@@ -1,7 +1,7 @@
 import React from 'react'
 import Svg, { Path } from 'react-native-svg'
 
-function Home() {
+function HomeIcon() {
   return (
     <Svg width="28" height="33" viewBox="0 0 28 33" fill="none">
       <Path
@@ -16,4 +16,4 @@ function Home() {
   )
 }
 
-export default Home
+export default HomeIcon
