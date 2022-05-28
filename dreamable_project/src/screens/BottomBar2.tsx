@@ -10,7 +10,7 @@ import MypageIcon from '../assets/mypage.svg'
 
 export default function BottomBar2(){
   const [index, setIndex] = useState<number>(0)
-  const [routes, setRoutes] = useState([
+  const [routes] = useState([
     {key: 'home', title:"", icon: HomeIcon},
     {key: 'dreamming', title:"", icon: TravelIcon},
     {key: 'mypage', title:"", icon: MypageIcon}

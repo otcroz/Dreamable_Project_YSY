@@ -4,12 +4,12 @@ import {Colors} from 'react-native-paper'
 import Dreamming from './src/screens/Dreamming'
 import BottomBar from './src/screens/BottomBar'
 import BottomBar2 from './src/screens/BottomBar2'
-
+import BottomBar3 from './src/screens/BottomBar3'
 
 export default function app(){
   return (
     <SafeAreaView style={styles.flex}>
-      <BottomBar2 />
+      <BottomBar3 />
     </SafeAreaView>
   )
 }
